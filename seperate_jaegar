@@ -1,3 +1,4 @@
+# Applied only for ROSA
 apiVersion: jaegertracing.io/v1
 kind: Jaeger
 metadata:
