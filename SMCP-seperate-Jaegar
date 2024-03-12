@@ -1,3 +1,5 @@
+###Applied only for ROSA
+
 apiVersion: maistra.io/v2
 kind: ServiceMeshControlPlane
 metadata:
